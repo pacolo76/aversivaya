@@ -6,16 +6,6 @@
 	objectVersion = 46;
 	objects = {
 
-/* Begin PBXBuildFile section */
-		73B13CA21C4084D800BF6B75 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 73B13CA11C4084D800BF6B75 /* AppDelegate.swift */; };
-		73B13CA41C4084D800BF6B75 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 73B13CA31C4084D800BF6B75 /* ViewController.swift */; };
-		73B13CA71C4084D800BF6B75 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 73B13CA51C4084D800BF6B75 /* Main.storyboard */; };
-		73B13CA91C4084D800BF6B75 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 73B13CA81C4084D800BF6B75 /* Assets.xcassets */; };
-		73B13CAC1C4084D800BF6B75 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 73B13CAA1C4084D800BF6B75 /* LaunchScreen.storyboard */; };
-		73B13CB71C4084D900BF6B75 /* aversivayaTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 73B13CB61C4084D900BF6B75 /* aversivayaTests.swift */; };
-		73B13CC21C4084D900BF6B75 /* aversivayaUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 73B13CC11C4084D900BF6B75 /* aversivayaUITests.swift */; };
-/* End PBXBuildFile section */
-
 /* Begin PBXContainerItemProxy section */
 		73B13CB31C4084D900BF6B75 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
@@ -34,20 +24,9 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		73B13C9E1C4084D800BF6B75 /* aversivaya.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = aversivaya.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		73B13CA11C4084D800BF6B75 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		73B13CA31C4084D800BF6B75 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		73B13CA61C4084D800BF6B75 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		73B13CA81C4084D800BF6B75 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		73B13CAB1C4084D800BF6B75 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		73B13CAD1C4084D800BF6B75 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		73B13CB21C4084D900BF6B75 /* aversivayaTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = aversivayaTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		73B13CB61C4084D900BF6B75 /* aversivayaTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = aversivayaTests.swift; sourceTree = "<group>"; };
-		73B13CB81C4084D900BF6B75 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		73B13CBD1C4084D900BF6B75 /* aversivayaUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = aversivayaUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		73B13CC11C4084D900BF6B75 /* aversivayaUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = aversivayaUITests.swift; sourceTree = "<group>"; };
-		73B13CC31C4084D900BF6B75 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		73B13CCF1C4084FA00BF6B75 /* Juego de Memoria definitivo.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; name = "Juego de Memoria definitivo.playground"; path = "../../Juego memoria definitivo/Juego de Memoria definitivo.playground"; sourceTree = "<group>"; };
+		73B13C9E1C4084D800BF6B75 /* aversivaya.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; name = aversivaya.app; path = "/Users/pacolo76/Desktop/aversivaya/build/Debug-iphoneos/aversivaya.app"; sourceTree = "<absolute>"; };
+		73B13CB21C4084D900BF6B75 /* aversivayaTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; name = aversivayaTests.xctest; path = "/Users/pacolo76/Desktop/aversivaya/build/Debug-iphoneos/aversivayaTests.xctest"; sourceTree = "<absolute>"; };
+		73B13CBD1C4084D900BF6B75 /* aversivayaUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; name = aversivayaUITests.xctest; path = "/Users/pacolo76/Desktop/aversivaya/build/Debug-iphoneos/aversivayaUITests.xctest"; sourceTree = "<absolute>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -78,53 +57,7 @@
 		73B13C951C4084D800BF6B75 = {
 			isa = PBXGroup;
 			children = (
-				73B13CA01C4084D800BF6B75 /* aversivaya */,
-				73B13CB51C4084D900BF6B75 /* aversivayaTests */,
-				73B13CC01C4084D900BF6B75 /* aversivayaUITests */,
-				73B13C9F1C4084D800BF6B75 /* Products */,
 			);
-			sourceTree = "<group>";
-		};
-		73B13C9F1C4084D800BF6B75 /* Products */ = {
-			isa = PBXGroup;
-			children = (
-				73B13C9E1C4084D800BF6B75 /* aversivaya.app */,
-				73B13CB21C4084D900BF6B75 /* aversivayaTests.xctest */,
-				73B13CBD1C4084D900BF6B75 /* aversivayaUITests.xctest */,
-			);
-			name = Products;
-			sourceTree = "<group>";
-		};
-		73B13CA01C4084D800BF6B75 /* aversivaya */ = {
-			isa = PBXGroup;
-			children = (
-				73B13CCF1C4084FA00BF6B75 /* Juego de Memoria definitivo.playground */,
-				73B13CA11C4084D800BF6B75 /* AppDelegate.swift */,
-				73B13CA31C4084D800BF6B75 /* ViewController.swift */,
-				73B13CA51C4084D800BF6B75 /* Main.storyboard */,
-				73B13CA81C4084D800BF6B75 /* Assets.xcassets */,
-				73B13CAA1C4084D800BF6B75 /* LaunchScreen.storyboard */,
-				73B13CAD1C4084D800BF6B75 /* Info.plist */,
-			);
-			path = aversivaya;
-			sourceTree = "<group>";
-		};
-		73B13CB51C4084D900BF6B75 /* aversivayaTests */ = {
-			isa = PBXGroup;
-			children = (
-				73B13CB61C4084D900BF6B75 /* aversivayaTests.swift */,
-				73B13CB81C4084D900BF6B75 /* Info.plist */,
-			);
-			path = aversivayaTests;
-			sourceTree = "<group>";
-		};
-		73B13CC01C4084D900BF6B75 /* aversivayaUITests */ = {
-			isa = PBXGroup;
-			children = (
-				73B13CC11C4084D900BF6B75 /* aversivayaUITests.swift */,
-				73B13CC31C4084D900BF6B75 /* Info.plist */,
-			);
-			path = aversivayaUITests;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -215,7 +148,7 @@
 				Base,
 			);
 			mainGroup = 73B13C951C4084D800BF6B75;
-			productRefGroup = 73B13C9F1C4084D800BF6B75 /* Products */;
+			productRefGroup = 73B13C951C4084D800BF6B75;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
@@ -231,9 +164,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				73B13CAC1C4084D800BF6B75 /* LaunchScreen.storyboard in Resources */,
-				73B13CA91C4084D800BF6B75 /* Assets.xcassets in Resources */,
-				73B13CA71C4084D800BF6B75 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -258,8 +188,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				73B13CA41C4084D800BF6B75 /* ViewController.swift in Sources */,
-				73B13CA21C4084D800BF6B75 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -267,7 +195,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				73B13CB71C4084D900BF6B75 /* aversivayaTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -275,7 +202,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				73B13CC21C4084D900BF6B75 /* aversivayaUITests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -293,25 +219,6 @@
 			targetProxy = 73B13CBE1C4084D900BF6B75 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
-
-/* Begin PBXVariantGroup section */
-		73B13CA51C4084D800BF6B75 /* Main.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				73B13CA61C4084D800BF6B75 /* Base */,
-			);
-			name = Main.storyboard;
-			sourceTree = "<group>";
-		};
-		73B13CAA1C4084D800BF6B75 /* LaunchScreen.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				73B13CAB1C4084D800BF6B75 /* Base */,
-			);
-			name = LaunchScreen.storyboard;
-			sourceTree = "<group>";
-		};
-/* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
 		73B13CC41C4084D900BF6B75 /* Debug */ = {
@@ -486,6 +393,7 @@
 				73B13CC81C4084D900BF6B75 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		73B13CC91C4084D900BF6B75 /* Build configuration list for PBXNativeTarget "aversivayaTests" */ = {
 			isa = XCConfigurationList;
@@ -494,6 +402,7 @@
 				73B13CCB1C4084D900BF6B75 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		73B13CCC1C4084D900BF6B75 /* Build configuration list for PBXNativeTarget "aversivayaUITests" */ = {
 			isa = XCConfigurationList;
@@ -502,6 +411,7 @@
 				73B13CCE1C4084D900BF6B75 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
