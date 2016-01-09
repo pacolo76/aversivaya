@@ -47,6 +47,7 @@
 		73B13CBD1C4084D900BF6B75 /* aversivayaUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = aversivayaUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		73B13CC11C4084D900BF6B75 /* aversivayaUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = aversivayaUITests.swift; sourceTree = "<group>"; };
 		73B13CC31C4084D900BF6B75 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		73B13CCF1C4084FA00BF6B75 /* Juego de Memoria definitivo.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; name = "Juego de Memoria definitivo.playground"; path = "../../Juego memoria definitivo/Juego de Memoria definitivo.playground"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,6 +98,7 @@
 		73B13CA01C4084D800BF6B75 /* aversivaya */ = {
 			isa = PBXGroup;
 			children = (
+				73B13CCF1C4084FA00BF6B75 /* Juego de Memoria definitivo.playground */,
 				73B13CA11C4084D800BF6B75 /* AppDelegate.swift */,
 				73B13CA31C4084D800BF6B75 /* ViewController.swift */,
 				73B13CA51C4084D800BF6B75 /* Main.storyboard */,
